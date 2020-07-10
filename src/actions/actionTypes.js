@@ -1,0 +1,13 @@
+export const SET_LOCATION = 'SET_LOCATION';
+
+export const SET_USER = 'SET_USER';
+export const SET_ERROR = 'SET_ERROR';
+export const SET_AUTH_LOADING = 'SET_AUTH_LOADING';
+
+export const SET_DONATORS = 'SET_DONATORS';
+export const SET_MY_DONATIONS = 'SET_MY_DONATIONS';
+export const SET_DONATORS_LOADING = 'SET_DONATORS_LOADING';
+
+export const SET_REQUESTS = 'SET_REQUESTS';
+export const SET_MY_REQUESTS = 'SET_MY_REQUESTS';
+export const SET_REQUESTS_LOADING = 'SET_REQUESTS_LOADING';

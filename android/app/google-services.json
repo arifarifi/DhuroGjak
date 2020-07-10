@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "633637279671",
+    "firebase_url": "https://dhurogjak.firebaseio.com",
+    "project_id": "dhurogjak",
+    "storage_bucket": "dhurogjak.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:633637279671:android:fafc70bed57009b672ba32",
+        "android_client_info": {
+          "package_name": "com.dhurogjak"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "633637279671-g7mcufqjklfr6gv9s5lapvdlugbmk4gh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEbAEEDW1j_Pv0owDAyNwDyaujS9GqrKY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "633637279671-g7mcufqjklfr6gv9s5lapvdlugbmk4gh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
